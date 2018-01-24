@@ -1,0 +1,15 @@
+ssm
+1.web.xml
+ 前端控制器  页面乱码
+ 
+2.applicationContext.xml
+导入jdbc.properties
+连接数据库连接池
+配置sessionFactory 
+ 
+ 3.自定义注解
+ 4.开启注解扫描
+ 5.开启mvc的注解
+ 6.国际视图解析器
+ 
+ 
